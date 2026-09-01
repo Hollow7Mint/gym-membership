@@ -106,4 +106,4 @@ class GymModels:
             if len(page) < batch_size:
                 break
             offset += batch_size
-# Last sync: 2026-09-01 07:52:24 UTC
+# Last sync: 2026-09-01 08:52:26 UTC
